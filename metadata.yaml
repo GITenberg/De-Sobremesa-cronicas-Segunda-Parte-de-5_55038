@@ -1,5 +1,8 @@
 _repo: De-Sobremesa-cronicas-Segunda-Parte-de-5_55038
-_version: 0.1.0
+_version: 0.2.0
+covers:
+- cover_type: archival
+  image_path: 55038-h/images/cover.jpg
 creator:
   author:
     agent_name: Benavente, Jacinto
@@ -14,6 +17,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/33140
     wikipedia: http://en.wikipedia.org/wiki/Jacinto_Benavente
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/55038#De-Sobremesa-cronicas-Segunda-Parte-de-5
 gutenberg_issued: '2017-07-03'
 gutenberg_type: Text
 identifiers:
